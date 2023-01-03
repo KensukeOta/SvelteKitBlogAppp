@@ -7,6 +7,8 @@
 
 <Header />
 
-<slot />
+<main class="flex-1">
+  <slot />
+</main>
 
 <Footer />
